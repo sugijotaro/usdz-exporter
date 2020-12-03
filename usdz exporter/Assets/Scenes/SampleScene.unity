@@ -304,7 +304,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1633040286}
   m_Layer: 0
-  m_Name: USDZzero
+  m_Name: Monolith
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -335,7 +335,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: f1d1aa0c062dc4e47a368a93feaeb8f2,
         type: 3}
       propertyPath: m_Name
-      value: untitled
+      value: Monolith
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: f1d1aa0c062dc4e47a368a93feaeb8f2,
         type: 3}
